@@ -1,5 +1,5 @@
 <template lang="">
-Логотип Яндекс Такси:
+<h2>1.Логотип Яндекс Такси:</h2>
     <div class="logo">
     </div>
 </template>
